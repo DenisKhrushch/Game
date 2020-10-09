@@ -1,0 +1,182 @@
+{
+  "prize": ["$500", "$1,000", "$2,000", "$4,000", "$8,000", "$16,000", "$32,000", "$64,000", "$125,000", "$250,000", "$500,000", "$1,000,000"],
+  "scoreTable": ["$1,000,000","$500,000","$250,000","$125,000","$64,000","$32,000","$16,000","$8,000","$4,000","$2,000","$1,000","$500"],
+  "data": [
+    {
+      "question":"What sort of animal is Walt Disney's Dumbo?",
+      "answers":["Rabbit","Deer","Elephant","Donkey"],
+      "answer":"Elephant"
+    },
+    {
+      "question":"What was the name of the Spanish waiter in the TV sitcom \"Fawlty Towers\"?",
+      "answers":["Manuel","Pedro","Alfonso","Javier"],
+      "answer":"Manuel"
+    },
+    {
+      "question":"Which battles took place between the Royal Houses of York and Lancaster?",
+      "answers":["Thirty Years War","Hundred Years War","War of the Roses","English Civil War"],
+      "answer":"War of the Roses"
+    },
+    {
+      "question":"Which former Beatle narrated the TV adventures of Thomas the Tank Engine?",
+      "answers":["John Lennon","Paul McCartney","George Harrison","Ringo Starr"],
+      "answer":"Ringo Starr"
+    },
+    {
+      "question":"Queen Anne was the daughter of which English Monarch?",
+      "answers":["James II","Henry VIII","Victoria","William I"],
+      "answer":"James II"
+    },
+    {
+      "question":"Who composed \"Rhapsody in Blue\"?",
+      "answers":["Irving Berling","George Gershwin","Aaron Copland","Cole Porter"],
+      "answer":"George Gershwin"
+    },
+    {
+      "question":"What is the Celsius equivalent of 77 degrees Fahrenheit?",
+      "answers":["15","20","25","30"],
+      "answer":"25"
+    },
+    {
+      "question":"Suffolk Punch and Hackney are types of what?",
+      "answers":["Carriage","Wrestling style","Cocktail","Horse"],
+      "answer":"Horse"
+    },
+    {
+      "question":"Which Shakespeare play features the line \"Neither a borrower, nor a lender be\"?",
+      "answers":["Hamlet","Macbeth","Othello","The Merchant of Venice"],
+      "answer":"Hamlet"
+    },
+    {
+      "question":"Which is the largest city in the USA's largest state?",
+      "answers":["Dallas","Los Angeles","New York","Anchorage"],
+      "answer":"Anchorage"
+    },
+    {
+      "question":"The word \"aristocracy\" literally means power in the hands of whom?",
+      "answers":["The few","The best","The barons","The rich"],
+      "answer":"The best"
+    },
+    {
+      "question":"Where would a \"peruke\" be worn?",
+      "answers":["Around the neck","On the head","Around the waist","On the wrist"],
+      "answer":"On the head"
+    },
+    {
+      "question":"In which palace was Queen Elizabeth I born?",
+      "answers":["Greenwich","Richmond","Hampton Court","Kensington"],
+      "answer":"Greenwich"
+    },
+    {
+      "question":"From which author's work did scientists take the word \"quark\"?",
+      "answers":["Lewis Carrol","Edward Lear","James Joyce","Aldous Huxley"],
+      "answer":"James Joyce"
+    },
+    {
+      "question":"Which of these islands was ruled by Britain from 1815 until 1864?",
+      "answers":["Crete","Cyprus","Corsica","Corfu"],
+      "answer":"Corfu"
+    },
+    {
+      "question":"Who is the patron saint of Spain?",
+      "answers":["Saint James","Saint Peter","Saint John","Saint Percy"],
+      "answer":"Saint James"
+    },
+    {
+      "question":"Which insect inspired the term \"computer bug\"?",
+      "answers":["Moth","Cockroach","Fly","Beetle"],
+      "answer":"Moth"
+    },
+    {
+      "question":"Which of these dance names is used to describe a fashionable dot?",
+      "answers":["Polka","Swing","Hora","Lambada"],
+      "answer":"Polka"
+    },
+    {
+      "question":"In the children's book series, where is Paddington Bear originally from?",
+      "answers":["Peru","India","Canada","Sweden"],
+      "answer":"Peru"
+    },
+    {
+      "question":"In the \"Road Runner and Coyote\" cartoons, what famous sound does the Road Runner make?",
+      "answers":["Beep! Beep!","Vroom! Veoom!","Ping! Ping!","Ooga! Ooga!"],
+      "answer":"Beep! Beep!"
+    },
+    {
+      "question":"Which landlocked country is contained within another country?",
+      "answers":["Lesotho","Luxembourg","Burkina Faso","Siberia"],
+      "answer":"Lesotho"
+    },
+    {
+      "question":"The word \"tabby,\" now used to refer to a cat, is derived from the name of a district of which world capital?",
+      "answers":["Baghdad","New Delhi","Cairo","Moscow"],
+      "answer":"Baghdad"
+    },
+    {
+      "question":"Which part of a chicken is commonly called the \"drumstick\"?",
+      "answers":["Leg","Wing","Thigh","Breast"],
+      "answer":"Leg"
+    },
+    {
+      "question":"What is cancer?",
+      "answers":["Disease of the brain","Disease of the lungs","Disease of the cells","Disease of the heart"],
+      "answer":"Disease of the heart"
+    },
+    {
+      "question":"Who controls the multiplying of the cancer cells",
+      "answers":["No control","The doctor","The heart","The brain"],
+      "answer":"No control"
+    },
+    {
+      "question":"What is a tumor?",
+      "answers":["A lump of hair","A lump of proteins","A lump of abnormal cells","A lump of red blood cells"],
+      "answer":"A lump of abnormal cells"
+    },
+    {
+      "question":"Which Sesame Street character is also known as The Grouch?",
+      "answers":["Elmo","Big Bird","Oscar","Ernie"],
+      "answer":"Oscar"
+    },
+    {
+      "question":"Which movie featured the touching romantic quote, \"You had me at hello.\"?",
+      "answers":["Jerry Maguire","Down With Love","Must Love Dogs","The Graduate"],
+      "answer":"Jerry Maguire"
+    },
+    {
+      "question":"What bodily organ produces the sticky liquid known as bile?",
+      "answers":["Kidney","Gall Bladder","Th Spinal Column","Liver"],
+      "answer":"Liver"
+    },
+    {
+      "question":"Which of the following is there more of on Earth?",
+      "answers":["Sheep","Humans","Plankton","Cats"],
+      "answer":"Plankton"
+    },
+    {
+      "question":"Which of the following fish is called Gadus?",
+      "answers":["Shark","Anglerfish","Cod","Swordfish"],
+      "answer":"Cod"
+    },
+    {
+      "question":"Which of the following movies was not made in 1997?",
+      "answers":["12 Angry Men","The X Files: Fight the Future","The Game","Titanic"],
+      "answer":"The X Files: Fight the Future"
+    },
+    {
+      "question":"Which language (not including English) have student studies revealed to be the easiest to learn?",
+      "answers":["Italian","Spanish","French","German"],
+      "answer":"Spanish"
+    },
+    {
+      "question":"In the movie Wall Street, which famous actor played the character Gordon Gekko?",
+      "answers":["Al Pacino","Kirik Douglas","Jack Nicholson","Michael Douglas"],
+      "answer":"Jack Nicholson"
+    },
+    {
+      "question":"What nationality is tennis player Lleyton Hewitt?",
+      "answers":["Australian","American","English","Irish"],
+      "answer":"Australian"
+    }
+  ]
+}
+
